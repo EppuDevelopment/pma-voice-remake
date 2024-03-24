@@ -8,3 +8,4 @@ Just Replace The app.css from pma-voice/ui/css
 * Clean 
 * Very Easy To Just Replace 
 
+![image](https://github.com/EppuScripts/pma-voice-remake/assets/144498221/0ab01543-5262-4339-ad58-0313557afa07)
