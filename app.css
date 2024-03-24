@@ -1,0 +1,23 @@
+.voiceInfo {
+    font-family: Arial, sans-serif;
+    position: fixed;
+    text-align: left;
+    top: 4px;
+    right: 8px;
+    padding: 6px;
+    font-size: 12px;
+    font-weight: bold;
+    color: #bbbbbb;
+    background-color: #26272c;
+    border-radius: 6px;
+    box-shadow: 1px 1px 2px #26272c;
+}
+
+.talking {
+    color: #ffffff;
+}
+
+p {
+    margin: 0;
+}
+
